@@ -3,7 +3,7 @@ A collection of example projects spanning different programming areas
 
 ## Examples Layout structure
 
-- General Python Libraries
+- General
 - Web Development
 - Data Science and Machine Learning
 - GUI Development
