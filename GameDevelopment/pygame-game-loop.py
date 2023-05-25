@@ -1,3 +1,4 @@
+# pip install pygame
 import pygame
 
 
@@ -28,7 +29,7 @@ def draw(screen, logo, xpos, ypos):
 
 def main():
     pygame.init()
-    logo = pygame.image.load("GameDevelopment/ball64.png")
+    logo = pygame.image.load("ball64.png")
     pygame.display.set_icon(logo)
     pygame.display.set_caption("Game")
 
